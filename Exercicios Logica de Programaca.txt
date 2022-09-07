@@ -1,0 +1,32 @@
+Algoritmo consiste em uma serie de atividades para realizacao de algo.
+
+Exemplo:Rotina Matinal
+
+Se o despartador tocou Entao
+   Desligar despertador
+
+levantar da cama 
+caminhar ate a cozinha
+abrir a geladeira
+
+Se tem leite Entao
+   fazer cafe com leite
+Senao
+   fazer cafe preto
+
+Enquanto estiver com fome
+  tomar o café da manhã
+
+caminhar até o banheiro
+
+Se a porta estiver fechada Então
+  abrir a porta
+
+entrar no banheiro
+escovar os dentes
+caminhar até o quarto
+trocar de roupa
+ir para o trabalho
+
+
+
