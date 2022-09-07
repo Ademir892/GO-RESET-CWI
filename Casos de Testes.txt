@@ -1,0 +1,20 @@
+Fluxo Principal: Alex Wolf ou um numero qualquer.
+Fluxo Alternativo: alexwolf@gmail.com ou 519897959612
+
+Passo a passo:
+Tentar acessar com um e-mail invalido.
+
+Acao				Resultado
+Abrir a aplicacao			Ser direcionado para tela de login
+Preencher com email			Erro(E-mail inválido)
+Preencher novamente com e-mail válido	Sem erros
+
+Sintaxe GHERKIN	
+Cenario: Acessar o sistema com um usuário inválido
+Dado que acessei a aplicação
+E ocorreu erro de e-mail inválido
+E com email válido acessei
+E fui direcionado para o login
+Quando preencho meus dados de acesso corretamente
+Então sou redirecionado para a aplicação			
+
