@@ -1,0 +1,7 @@
+1)
+// Para capturar
+cy.get ('element')
+// PAra clicar
+('interacao').click() 
+
+2).should
